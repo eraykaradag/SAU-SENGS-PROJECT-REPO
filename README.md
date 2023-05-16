@@ -143,3 +143,4 @@ Bu kaynak, popüler teknolojileri sıfırdan yeniden oluşturmak için iyi yazı
 #### `Uncategorized`
 
 * [**C++**: _Build your own VR headset for $200_](https://github.com/relativty/Relativ)
+* [**C++**: _Writing a Linux Debugger_](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
